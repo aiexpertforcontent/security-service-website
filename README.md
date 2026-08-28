@@ -10,7 +10,7 @@ You don't need to install Node.js or run any build commands to view and use the 
 
 1. Navigate to:
    ```
-   c:\Users\shubh\Downloads\shieldx-security\
+   shieldx-security\
    ```
 2. Double-click **`index.html`** or right-click and open with your preferred browser (Chrome, Edge, Brave, Firefox, etc.).
 3. The website is immediately 100% interactive, responsive, animated, and fully functional!
